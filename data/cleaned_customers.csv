@@ -1,0 +1,7 @@
+name,email,country,is_email_missing,name_length
+Alice,alice@email.com,Usa,False,5
+Bob,unknown@example.com,Germany,True,3
+Charlie,unknown@example.com,United Kingdom,True,7
+Diana,diana@gmail.com,United Kingdom,False,5
+Edward,edward@example.com,France,False,6
+Frank,unknown@example.com,Spain,True,5
